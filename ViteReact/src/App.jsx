@@ -1,9 +1,11 @@
+import Chai from "./chai"
+
 
 function App() {
  
 
   return (
-   <h1>Vishnu with react and vite </h1>
+   <Chai/>
   )
 }
 
